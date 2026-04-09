@@ -1,0 +1,8 @@
+{
+  "name": "weekly-status",
+  "description": "Evidence-based weekly status report generation with Jira activity analysis and natural text highlighting improvements",
+  "version": "0.1.0",
+  "author": {
+    "name": "github.com/openshift-eng"
+  }
+}
