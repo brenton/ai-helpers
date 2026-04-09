@@ -7,7 +7,7 @@ description: "Add Jira links, evidence queries, and verification sources to week
 
 ## When to Use This Skill
 
-Use this skill when you need to enhance weekly status report content with proper citations and evidence sources. This skill is commonly invoked during the improve command when users request:
+Use this skill when you need to enhance weekly status report content with proper citations and evidence sources. This skill is commonly invoked when users highlight text and request:
 
 - "Citation needed" - Add Jira links and evidence queries
 - "Add sources" - Include verification links for claims

@@ -1,14 +1,14 @@
 # Weekly Status Plugin
 
-Interactive weekly status report generation with relationship analysis and iterative improvement capabilities. Generate executive-focused leadership reports from Jira data and iteratively refine them through conversation.
+Evidence-based weekly status report generation with Jira activity analysis and natural text highlighting improvements. Generate executive-focused leadership reports from real work activity.
 
 ## Features
 
-- **Draft Generation**: Create structured weekly status reports from Jira activity data
-- **Interactive Improvement**: Iteratively refine reports with citations, explanations, and context
+- **Draft Generation**: Create structured weekly status reports from evidence-based Jira activity data
+- **Natural Improvement Workflow**: Highlight text and request changes directly - no commands needed
 - **Relationship Analysis**: Leverage Jira parent/child, blocks, and depends-on relationships for impact assessment
-- **Evidence Linking**: Automatic Jira URL generation and query creation for verification
-- **Multi-Signal Activity Filtering**: Advanced filtering based on completion, comments, status transitions, priority changes, and new issues
+- **Evidence Linking**: Permanent issue enumeration links that work regardless of when viewed
+- **Multi-Signal Activity Filtering**: Advanced filtering based on completion, comments, actual status changes, priority escalations, and meaningful new issues
 
 ## Prerequisites
 
@@ -18,13 +18,15 @@ Interactive weekly status report generation with relationship analysis and itera
 ## Commands
 
 ### `/weekly-status:draft`
-Generate an initial weekly status report from Jira activity data. Analyzes issues across specified projects using multi-signal filtering and creates a structured leadership report.
+Generate an evidence-based weekly status report from Jira activity data. Analyzes issues across specified projects using multi-signal filtering and creates a structured leadership report with permanent evidence links.
 
-### `/weekly-status:improve`
-Iteratively improve sections of the draft report based on user feedback. Supports citation enhancement, explanation expansion, and impact analysis using relationship data.
+**Improvement workflow**: After generation, simply highlight any text and request changes:
+- "add evidence links"
+- "verify this claim"
+- "remove duplicate content" 
+- "explain technical terms for leadership"
 
-### `/weekly-status:analyze-relationships`
-Analyze Jira issue relationships (parent/child, blocking dependencies) to understand impact chains and risk propagation across projects.
+No special commands needed - natural conversation works best.
 
 ## Installation
 
